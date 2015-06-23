@@ -1,6 +1,13 @@
+first :
+git revert <SHA>
 just study how to undo modified files 13:32 2015/6/23
 
 
 second :
 
 git commit --amend  14:03 2015/6/23
+
+
+third:
+
+git checkout -- fileanme
