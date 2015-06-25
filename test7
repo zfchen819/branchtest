@@ -1,1 +1,5 @@
 git rm --cache test
+
+git branch 
+git checkout 
+git merge    13:29 test
