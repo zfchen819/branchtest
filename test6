@@ -15,9 +15,11 @@ git branch feature,git reset --hard origin/master,and git checkout feature
 fifth  :
 git branch merge
 
+sixth :
 
 
 
 sixth :
 
 local modify test!
+ web server modify
